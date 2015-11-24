@@ -1,3 +1,7 @@
+/*
+* https://www.hackerrank.com/challenges/time-conversion
+*
+*/
 #include <cmath>
 #include <cstdio>
 #include <vector>
