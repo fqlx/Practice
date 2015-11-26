@@ -1,3 +1,8 @@
+/*
+*
+*   https://www.hackerrank.com/challenges/diagonal-difference
+*
+*/
 #include <cmath>
 #include <cstdio>
 #include <vector>
