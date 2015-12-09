@@ -1,3 +1,8 @@
+/*
+*  https://www.hackerrank.com/challenges/chocolate-feast
+*
+/
+
 #include <stdio.h>
  
 int how_many_can_get(int N, int C, int M);
