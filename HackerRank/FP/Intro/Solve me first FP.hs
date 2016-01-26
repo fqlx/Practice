@@ -1,3 +1,5 @@
+-- Code in Haskell
+
 solveMeFirst a b = a + b
 
 main = do
