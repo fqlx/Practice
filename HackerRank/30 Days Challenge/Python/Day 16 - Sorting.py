@@ -53,3 +53,4 @@ mergesort(n,0,len(n)-1)
 n = minDiff(n)
 for i in n:
     print(i, end=" ")
+    
