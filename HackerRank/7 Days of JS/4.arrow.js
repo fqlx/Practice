@@ -1,0 +1,1 @@
+var my_function = array => array.map(i=>i%2===0? ++i: --i);
