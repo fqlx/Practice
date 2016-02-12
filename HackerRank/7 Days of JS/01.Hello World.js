@@ -15,3 +15,4 @@ process.stdin.on("end", function ()
 {
    processData(_input);
 });
+
