@@ -19,6 +19,11 @@ k1 = list()
 for i in range(len(k)):
 	if x != k[i]:
 		k1.append(k[i])
+# print x
+student = list()
 for i in range(len(final)):
-    if y == final[i][1]:
+    if x == final[i][1]:
         student.append(final[i][0])
+student.sort()
+for i in range(len(student)):
+    print student[i]
