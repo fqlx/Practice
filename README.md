@@ -1,6 +1,5 @@
-# Competitive-Programming
+# Practice
 
-Solutions to all my successfull submissions at online competetive programming websites
-The links to the problem will be mentioned in the solution.
+Solutions to all my successfull submissions at online competetive programming websites   
 
 Only for reference purposes. Kindly don't try to cheat.
